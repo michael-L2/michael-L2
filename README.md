@@ -7,22 +7,22 @@ Welcome to my GitHub portfolio! As an **IT Professional**, I specialize in **hel
 ## 🚀 Featured Projects
 
 ### 📝 osTicket (Help Desk Ticketing System)
-1. **osTicket: Prerequisites and Installation**  
+1. **[osTicket: Prerequisites and Installation](https://github.com/michael-L2/osticket-prereqs/tree/main)**  
    Step-by-step setup of osTicket, covering all the essential prerequisites and installation procedures.
 
-2. **osTicket: Post-Installation Configuration**  
+2. **[osTicket: Post-Installation Configuration](https://github.com/michael-L2/osticket-postinst/tree/main)**  
    Fine-tuning osTicket to meet organizational needs, including setting up roles, departments, and ticket workflows.
 
-3. **osTicket: Ticket Lifecycle Examples**  
+3. **[osTicket: Ticket Lifecycle Examples](https://github.com/michael-L2/osticket-lifecycle/tree/main)**  
    Practical scenarios illustrating the ticket lifecycle from submission to resolution.
 
 ---
 
 ### ☁️ Microsoft Azure / Entra ID
-1. **Configuring On-premises Active Directory within Azure VMs**  
+1. **[Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-L2/activeDirectoryOnPrem/tree/main)**  
    Seamless integration of on-premises Active Directory with Azure-hosted virtual machines.
 
-3. **Network Security Groups (NSGs) and Inspecting Network Protocols**  
+3. **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michael-L2/activeDirectoryGP/tree/main)**  
    Hands-on experience in configuring NSGs to secure Azure environments and analyzing network protocols for optimization and security.
 
 ---
@@ -35,7 +35,7 @@ Welcome to my GitHub portfolio! As an **IT Professional**, I specialize in **hel
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 - [LinkedIn](https://linkedin.com/in/michael-l-15a280273)
 - [GitHub](https://github.com/michael-L2)
 
